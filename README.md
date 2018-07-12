@@ -1,2 +1,2 @@
 # Proposals
-FNK Development Proposals
+FNKOS Development Proposals
